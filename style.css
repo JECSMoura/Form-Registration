@@ -33,7 +33,7 @@ body {
 }
 
 .form-image img {
-width: 31rem;
+   width: 31rem;
 }
 
 .form {
@@ -61,8 +61,8 @@ width: 31rem;
     border: none;
     background-color: #6c63ff;
     padding: 0.4rem 1rem;
-border-radius: 5px;
-cursor: pointer;
+   border-radius: 5px;
+   cursor: pointer;
  }
 
  .login-button button:hover{
